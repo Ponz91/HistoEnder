@@ -11,4 +11,4 @@ Additionally, the 3D printer retains its full functionality, and it can go back 
 The g-code associated with the procedure is extremely simple, and can be written by anyone. The HistoEnder can also be
 used in chemistry and material science laboratories for automating surface modifications and dip coating. 
 
-[1]: https://github.com/
+[1]: https://github.com/Ponz91/HistoEnder/blob/main/HistoEnder.jpg
