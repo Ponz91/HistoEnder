@@ -14,6 +14,6 @@ used in chemistry and material science laboratories for automating surface modif
 ## Structure 
 + /hardware is a folder with the 3D printable files and a guide for the assembly 
 + /software is a folder with g-code examples 
-+ /videos are few video of the pumps in action
+
 
 [1]: https://github.com/Ponz91/HistoEnder/blob/main/HistoEnder.jpg
