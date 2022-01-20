@@ -1,5 +1,7 @@
 <b>HistoEnder: a 3D printer-based histological slide autostainer that retains 3D printer functions</b>
 
+Preprint here: https://engrxiv.org/sjz4e/
+
 ![][1]
 
 Automated microscope slide stainers are typically very expensive, and unless the lab performs heavy histological work 
